@@ -33,7 +33,7 @@ I consider myself a cooperative, adaptable individual with a strong motivation f
 
 </td><td valign="top" width="50%">
 
-<img src="https://media.tenor.com/RZ5w2J_UhksAAAAM/pochita.gif" align="left" height="130" width="200" />  
+<img src="https://media.tenor.com/RZ5w2J_UhksAAAAM/pochita.gif" align="left" style="width: 100%" />  
 
 
 </td></tr></table>  
